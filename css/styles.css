@@ -1,0 +1,53 @@
+body {
+  background-color: #0375B4;
+}
+
+.headers {
+  font-family:serif;
+  color:#262228;
+  text-align: center;
+  font-size: 40px;
+
+}
+
+
+
+.post1{
+  align-items: auto;
+  background-color:#FFCE00;
+  font-size: 25px;
+  color:#0375B4;
+  text-align: center;
+  border-style: solid;
+  border-radius: 25px;
+  border-color:#262228;
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+}
+
+.post2 {
+  background-color:#EFEFEF;
+  font-size:25px;
+  color:#A9A9A9;
+  text-align: center;
+  border-style: solid;
+  border-radius:25px;
+  border-color:#FF3b3F;
+  width:50%;
+  margin: auto;
+  padding: 10px;
+}
+
+.aboutme {
+  background-color: #D7CEC7;
+  font-size:20px;
+  color:#76323F;
+  text-align:center;
+  border-style:solid;
+  border-radius:25px;
+  border-color:#565656;
+  width:auto;
+  margin:auto;
+  padding:10px;
+}
