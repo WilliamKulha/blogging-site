@@ -1,6 +1,6 @@
 # _YouTube Blog Website_
 
-#### _A webpage I used to practice styling <div> elements with CSS, 8-29-2018_
+#### _A webpage I used to practice styling <div elements with CSS, 8-29-2018_
 
 #### By _**William Kulha**_
 
